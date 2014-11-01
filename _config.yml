@@ -1,4 +1,21 @@
-auto: true
-markdown: rdiscount
-pygments: true
-permalink: /blog/:title
+# Site settings
+title: blog title
+email: me@mysite.org
+description: "Really cool blog about ... something"
+baseurl: "/"
+url: "http://mysite.org"
+twitter_username: user
+github_username: user
+disqus_username: false
+isso_domain: comments.mysite.org
+
+# Build settings
+markdown: redcarpet
+permalink: /:title/
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"

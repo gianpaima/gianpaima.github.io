@@ -1,7 +1,14 @@
-## Erjjones.Github.com
+Contrast
+========
 
-This is my GitHub user page made with Jekyll, and [Fuel UX](http://exacttarget.github.com/fuelux/).  Download it, fork it, follow it, give it away...
+Lightweight Jekyll theme
 
-Have any feedback for me? [File an issue on this
-project](https://github.com/erjjones/Feedback/issues/new) and I will get back to
-you as soon as I can.
+ - mobile first
+ - syntax highlighting
+ - automatic [disqus](https://disqus.com/) / [isso](http://posativ.org/isso/) integration
+
+Released under *public domain*.
+
+**Screenshot:**
+
+![screenshot](https://cloud.githubusercontent.com/assets/4943215/4261110/7f86f7dc-3b5e-11e4-8250-429e0248570f.png)
