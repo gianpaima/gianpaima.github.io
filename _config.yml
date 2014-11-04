@@ -2,8 +2,8 @@
 
 title:            Codear — For Web Development Enthusiasts
 locale:           es_PE
-# url:              http://localhost:4000
-url:              http://gianpaima.github.io
+url:              http://localhost:4000
+# url:              http://gianpaima.github.io
 
 # Jekyll configuration
 
@@ -27,7 +27,7 @@ kramdown:
 # Site owner
 owner:
   name: Gian Paima
-  avatar: bio-photo-3.jpg
+  avatar: bio-photo-4.jpg
   bio: "JesuS. Passionate about front-end development."
   email: giancarlospaima@gmail.com
   disqus-shortname: 'codearpe'
