@@ -582,6 +582,24 @@ $button-size: 1.5rem;
 		}
 	}
 }
+
+// Social Share
+// --------------------------------------------------
+.socialcount {
+	@include font-rem(16);
+	font-weight: 700;
+	li { 
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+	p > a,
+	li > a {
+		border-bottom-width: 0;
+		text-decoration: none;
+	}
+	text-align: center;
+}
+
 .related-articles {
 	@include grid(12,10);
 	@include prefix(12,1);
